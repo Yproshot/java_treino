@@ -1,3 +1,5 @@
+package LogicaDeProgramacao_Javanalta;
+
 public class EstruturaIfEslse {
     public static void main(String[] args) {
 

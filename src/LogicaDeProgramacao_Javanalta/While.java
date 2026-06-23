@@ -1,3 +1,5 @@
+package LogicaDeProgramacao_Javanalta;
+
 public class While {
     public static void main(String[] args) {
         int contador = 0;

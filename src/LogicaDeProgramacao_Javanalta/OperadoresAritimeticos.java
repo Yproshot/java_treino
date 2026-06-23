@@ -1,3 +1,5 @@
+package LogicaDeProgramacao_Javanalta;
+
 public class OperadoresAritimeticos {
     public static void main(String[] args) {
         double pao = 10.50;
